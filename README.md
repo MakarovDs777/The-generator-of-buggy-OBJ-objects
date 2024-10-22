@@ -1,21 +1,21 @@
 # The generator of buggy OBJ objects 2
 
-Not so long ago, I wanted to make a [buggy pit](https://www.reddit.com/r/backrooms/comments/1dmbht6/locations_for_level_0_in_the_backrooms/) in backrooms, but it didn't work out very well... I just made a pit and generated a lot of triangles there that I stretched buggy textures on, and it didn't look very much like a buggy pit... According to the idea, if we jump into this pit, it can either tear you into atoms with a 50 percent probability, or through nocliping throw you into the void space where you will fly at great speed for millions of kilometers until you randomly hook a random corridor.
+Не так давно я хотел сделать [яму для глюков](https://www.reddit.com/r/backrooms/comments/1dmbht6/locations_for_level_0_in_the_backrooms/) в подсобных помещениях, но получилось не очень хорошо... Я просто нарисовал яму и сгенерировал там множество треугольников, на которые натянул текстуры с ошибками, и это было не очень похоже на яму с ошибками... Согласно идее, если мы прыгнем в эту яму, она может либо разорвать вас на атомы с вероятностью в 50 процентов, либо с помощью ноклипинга выбросить вас в пустое пространство, где вы будете лететь с огромной скоростью миллионы километров, пока случайно не попадете в случайный коридор.
 
 ![g3hvz2noxs8d1](https://github.com/user-attachments/assets/289e589f-b1ef-41eb-b84c-81d291edcebb)
 
-And in the first version, I got a structure more like a stone than a buggy object, but it can be used as a continuation of buggy objects like the initial zone of a buggy territory, in my opinion it turned out well...
+И в первой версии у меня получилась структура, больше похожая на камень, чем на глючный объект, но ее можно использовать как продолжение глючных объектов, как начальную зону глючной территории, на мой взгляд, получилось неплохо...
 
 [![2024-10-21-15-55-22-589.gif](https://i.postimg.cc/J4SHq9KH/2024-10-21-15-55-22-589.gif)](https://postimg.cc/MvbGZ3Cz)
 
 # The Generator Of Buggy OBJ Objects
 
-And not so long ago, when I wanted to generate Delaunay triangulation, I accidentally got a generator of buggy objects, and I thought maybe someone would need it?
+И не так давно, когда я хотел сгенерировать триангуляцию Делоне, мне случайно попался генератор глючных объектов, и я подумал, может быть, кому-то это понадобится?
 
 [![2024-10-21-19-06-26-175.gif](https://i.postimg.cc/fbZFbRXZ/2024-10-21-19-06-26-175.gif)](https://postimg.cc/Js6K6mPd)
 
-Now let's make a pit of glitches! 
+А теперь давайте устроим нормальную яму с глюками!
 
 [![2024-10-22-13-08-18-303.gif](https://i.postimg.cc/Y9kZk0xK/2024-10-22-13-08-18-303.gif)](https://postimg.cc/NyJpkgVp)
 
-Now this is a real pit of glitches!
+Теперь это настоящая яма глюков!
